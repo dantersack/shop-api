@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/01SDante/shop-api/issues"
   },
-  "homepage": "https://github.com/01SDante/shop-api#readme"
+  "homepage": "https://github.com/01SDante/shop-api#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
