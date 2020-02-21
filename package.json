@@ -1,0 +1,24 @@
+{
+  "name": "shop-api",
+  "version": "1.0.0",
+  "description": "Node RESTful API example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/01SDante/shop-api.git"
+  },
+  "keywords": [
+    "node",
+    "restful",
+    "api"
+  ],
+  "author": "dante",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/01SDante/shop-api/issues"
+  },
+  "homepage": "https://github.com/01SDante/shop-api#readme"
+}
