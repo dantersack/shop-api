@@ -2,9 +2,9 @@
   "name": "shop-api",
   "version": "1.0.0",
   "description": "Node RESTful API example",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
-    "start": "nodemon server.js"
+    "start": "nodemon index.js"
   },
   "repository": {
     "type": "git",

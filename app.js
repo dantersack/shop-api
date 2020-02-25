@@ -15,7 +15,7 @@ mongoose
   )
   .then(result =>
     console.log(
-      `MongoDB Connected to db=${result.connections[0].name} host=${result.connections[0].host} `
+      `MongoDB Connected to db=${result.connections[0].name}:host=${result.connections[0].host} `
     )
   )
   .catch(err => console.log(err));
